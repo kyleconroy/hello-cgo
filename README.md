@@ -1,4 +1,9 @@
-hello-cgo
-=========
+Hello CGO
+=============
 
-A simple "Hello World" application using cgo
+It's hello world, demonstrating how to write C extensions for Go apps.
+
+    $ go build
+    $ ./hello-cgo
+    Hello CGO!
+
